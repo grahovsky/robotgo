@@ -16,7 +16,8 @@ func main() {
 
 	//explain()
 	// testScript()
-	shootScript()
+	//shootScript()
+	bitmap()
 
 }
 
